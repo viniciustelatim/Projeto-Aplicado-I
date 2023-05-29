@@ -5,6 +5,7 @@
 Esse repositório do GitHub será utilizado para postagem e atualizações de nosso trabalho de Projeto Aplicado I.
 
 ### Origem dos dados: [Student Alcohol Consumption (Kaggle)](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
+####Apresentação no Youtube: https://youtu.be/KFH7ywpzzj0
 
 O objetivo é analisar as diversas variáveis presentes no dataset e identificar aquelas as quais tem correlação com maior consumo de álcool pelos alunos.
 
